@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    background-color: rgb(36, 40, 43);
+    height: 8vh;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 6px solid rgb(18, 147, 212);
+}
+.navtittle{
+    display: flex;
+    justify-content: space-around;
+    width: 380px;
+    font-family: Tahoma;
+    margin: 0px 150px;
+    font-size: 10px;
+}
+#tittleIndex{
+    color: rgb(18, 147, 212);
+    width: 300px;
+}
+nav{
+    justify-content: space-around;
+    margin: 0px 150px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+    font-size: 15px;
+    font-family: 'Lucida Sans';
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    background: url(../assents/img/cabecera.jpg);
+    background-size: cover;
+    height: 45vh;
+    background-position: center;
+    color: white;  
+    align-items: center;
+    justify-content: flex-start;
+}
+.tittlesection1{
+    margin: 80px 0px 20px 0px;
+    font-size: 50px;
+    font-family:'Lucida Sans';
+}
+#pSection1{
+    text-align: center;
+    width: 1000px;
+}
+.section2{
+    display: flex;
+    background-color: rgb(36, 40, 43);
+    height: 8vh;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+#textSection2{
+    margin: 0px 150px;
+    font-family:'Lucida Sans';
+}
+.divSection2{
+    margin: 0px 150px;
+}
+#spaceSubscribe{
+    width: 200px;
+    padding: 5px;
+    border-color: transparent;
+}
+#buttonSubcribe{
+    width: 100px;
+    padding: 7px;
+    color: white;
+    background-color: rgb(232, 73, 29);
+    border-color: transparent;
+}
+.section3{
+    display: flex;
+    height: 31vh;
+    justify-content: center;
+    margin: 0px 200px;
+}
+.logos{
+    width: 80px;
+    margin: 15px 160px 0px 160px;
+}
+#textSection3{
+    font-weight: 700;
+    font-size: 15px;
+    margin: 10px 180px;
+    width: 50px 200px;
+    font-family:'Lucida Sans';
+}
+#pSection3{
+    text-align: center;
+    margin: 0px 5px;
+    width: 400px;
+}
+#textSpecial{
+    font-weight: 700;
+    font-size: 15px;
+    margin: 10px 150px;
+    width: 200px;
+    font-family:'Lucida Sans';
+}
+#imgSpecial{
+    width: 80px;
+    margin: 15px 170px 0px 170px;
+}
+footer{
+    display: flex;
+    height: 8vh;
+    background-color: rgb(18, 147, 212);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family:'Lucida Sans';
+    font-size: 12px;
+}
+p{
+    font-family: Arial;
+    font-size: 15px;
+}
+#colorNav{
+    color: rgb(18, 147, 212);
+}
+.weSection2{
+    display: flex;
+    height: 72vh;
+    justify-content: space-between;
+    padding: 25px 150px;
+}
+#weBox{
+    width: 1000px;
+    justify-content: space-between;
+}
+h4{
+    font-size: 17px;
+    font-weight: 800;
+    font-family: Arial;
+}
+#wePar1{
+    margin: 25px 0px;
+}
+#weParBox{
+    height: 150px;
+    width: 1000px; 
+    background-color: rgb(53, 66, 74); 
+    color:white;
+    padding: 20px;
+    margin: 25px 0px;
+}
+#weBox2{
+    height: 225px;
+    width: 500px; 
+    background-color: rgb(53, 66, 74); 
+    color:white;
+}
+#weTitleWhite{
+    margin: 45px 20px 15px 20px;
+    font-weight: 700;
+}
+#weParBox2{
+    margin: 0px 20px;
+}
+#services{
+    display: flex;
+    margin: 0px 20px 0px 60px;
+    height: 76vh;
+
+}
+h4{
+ margin: 10px 20px 20px 40px;
+}
+.service{
+    margin: 0px 40px 2px 40px;
+    padding: 20px 20px 20px 20px;
+    height: 130px;
+    width: 1000px;
+    background-color: #cecece;
+    
+}
+
+/*revicion ruido*/
+
+section{
+    height: 76vh ;
+    
+}
+
+.caja{
+    display: flex;
+    background-color: gray;
+    height: px;
+    margin-left: 1000px;
+    text-align: center;
+}
+
+
+
+.text{
+    margin-top: 100px;
+
+}
+
+
+.caja2 {
+    margin-top: -850px;
+    
+   
+}
+
+.mapgoogle{
+    height:450px;
+    margin-left: 1100px;
+    margin-top: 20px;
+
+}
+
+#input{
+    width: 1000px;
+    height: 40px;
+}
+
+
+#input1{
+    width: 1000px;
+    height: 300px;
+}
+
+
+#boton{
+    width: 1000px;
+    height: 40px;
+
+}
+
+.title{
+    font-size: 25px ;
+}
+
+.sectionborder{
+    padding: 150px;
+    margin-top: 50px;
+    
+}
